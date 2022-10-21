@@ -1,3 +1,3 @@
 # TestingAplicaciones-Mesismo-TPO
-# Nombre del grupo: Mesismo
-# Integrantes: Tomas Barizone, Santino Travasso, Faustino Mazza, Manuel Carmona
+# Nombre del grupo: Messismo
+# Integrantes: Tomas Barisone, Santino Travasso, Faustino Mazza, Manuel Carmona
