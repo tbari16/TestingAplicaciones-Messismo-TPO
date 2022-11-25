@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="082a7fce-ded4-4a6b-9089-235d094f63fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Casos de Uso/dummy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/GitHub/TestingAplicaciones-Messismo-TPO/Casos de Uso/Automatizados/test_prueba .py",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/TestingAplicaciones-Messismo-TPO/main.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -45,8 +43,8 @@
       <recent name="C:\Users\User\Documents\GitHub\TestingAplicaciones-Messismo-TPO\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_prueba .py">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TestingAplicaciones-Messismo-TPO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +114,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python tests.pytest in test_prueba .py" />
       <item itemvalue="Python tests.pytest in Automatizado" />
       <item itemvalue="Python tests.pytest in test_hello_world.py" />
